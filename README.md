@@ -17,3 +17,6 @@ The foundation, currently in its infancy, aims to provide grassroots support to 
 
 * [Devpost](https://devpost.com/)
 Build products, practice skills, learn technologies, win prizes, and grow your network.
+
+* [Hashnode Hackathons](https://hackathons.hashnode.com/)
+Designed For Devtools, APIs And Cloud Companies. Trusted by the best developer companies like Vercel, AWS, Hasura, Auth0, Netlift, etc
