@@ -20,3 +20,9 @@ Build products, practice skills, learn technologies, win prizes, and grow your n
 
 * [Hashnode Hackathons](https://hackathons.hashnode.com/)
 Designed For Devtools, APIs And Cloud Companies. Trusted by the best developer companies like Vercel, AWS, Hasura, Auth0, Netlift, etc
+
+* [Eventbrite Hackathons](https://www.eventbrite.com/d/online/hackathon/)
+
+* [HackClub](https://hackathons.hackclub.com/)
+
+* [UnStop](https://unstop.com/hackathons)
